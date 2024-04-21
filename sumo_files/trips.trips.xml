@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-18 14:58:15.739663 by randomTrips.py UNKNOWN
+<configuration>
+    <net-file value="poggers3.net.xml"/>
+    <output-trip-file value="poggers3.trips.xml"/>
+    <end value="11.0"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="187697932" to="-1166042012"/>
+    <trip id="1" depart="1.00" from="-826542444" to="-49828222"/>
+    <trip id="2" depart="2.00" from="19552780" to="19527973#1"/>
+    <trip id="3" depart="3.00" from="830696983" to="-19527973#0"/>
+    <trip id="4" depart="4.00" from="-830696993#1" to="-1166042012"/>
+    <trip id="5" depart="5.00" from="-19552780" to="1256973142#0"/>
+    <trip id="6" depart="6.00" from="-1166042012" to="-203195317"/>
+    <trip id="7" depart="7.00" from="187697932" to="1256973142#1"/>
+    <trip id="8" depart="8.00" from="-19552780" to="187697932"/>
+    <trip id="9" depart="9.00" from="686489223" to="-1166042012"/>
+    <!--This is the trip down cumberland from west to east-->
+    <trip id="10" depart="10.00" from="-827216456" to="-49828222"/>
+</routes>
