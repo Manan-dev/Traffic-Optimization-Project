@@ -40,7 +40,7 @@ Currently, within the trips and route file, I have setup a vehicle to travel fro
 If we have time, we could add back in sidewalks into the network and add in pedestrians / crosswalks to make the simulation a little more accurate. We could also maybe add in more traffic lights and the rest of UTK's campus.
 
 
-### TODO
+### Experimental Parameters
 ---
 - Defaults
     - num_particles (60)
@@ -59,10 +59,3 @@ If we have time, we could add back in sidewalks into the network and add in pede
     - For different particle values
     - For different inertia values
     - for different social & cognition 
-
-- Final: 
-    - 8 total graphs
-    - 2 defaults
-    - 2 particles
-    - 2 inertia graphs
-    - 2 heatmaps for social & cognition
