@@ -2,6 +2,8 @@
 ---
 Utilizing SUMO, along with PSO, to optimize traffic light times and help enhance the flow of traffic along Cumberland Ave in Knoxville.
 
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhxMXNzYWNubjBlemd1OG56czdqcnh0cmV6bml6NzdlaW04NXNxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UmpAZyX3fTCMFSpD4n/giphy.gif)
+
 ### Setup
 ---
 - Make sure you have [SUMO](https://sumo.dlr.de/docs/Installing/index.html#macos) installed and setup.
